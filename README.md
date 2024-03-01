@@ -1,6 +1,3 @@
-# This is a front-end developer
-
-
 ## 👋 About Hosein Nz
 Welcome to my GitHub profile! I'm a dedicated front-end developer, who loves Flutter and also knows some back-end, passionate about crafting user-friendly and visually appealing web experiences. I strive to create responsive, accessible, and performant web applications.
 
