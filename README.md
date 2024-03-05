@@ -25,7 +25,8 @@ A few projects to familiarize yourself with my coding style.
 
 ## 📧 Contact
 Feel free to reach out to me via email at [Hosein.Nz.Dev@email.com](mailto:hosein.nzf.dev@email.com).
-[Linkedin](https://www.linkedin.com/in/hosein-nazifi-08a375221/)
+
+Other profiles: [Stackoverflow](https://stackoverflow.com/users/13286569/hosein) — [Linkedin](https://www.linkedin.com/in/hosein-nazifi-08a375221/)
 
 ## 📄 Resume
 You can view my detailed resume [here](link-to-resume-pdf).
