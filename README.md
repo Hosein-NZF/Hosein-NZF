@@ -5,15 +5,15 @@ I like brings cool designs to the web world with music and a bit of coffee!
 
 ## 💼 Projects
 A few projects to familiarize yourself with my coding style.
-### Project 1: [Project Name]
-- Description: Brief description of the project, its purpose, and technologies used.
-- Demo: Link to a live demo (if available).
-- Repository: Link to the GitHub repository.
+### Project 1: Modern Admin Panel
+- **Description:** A modern admin panel built with cutting-edge technologies to provide an intuitive and efficient user experience.
+- **Demo:** [Live Demo](https://hoseinnz.ir/modern-admin-panel/)
+- **Repository:** [GitHub Repository](https://github.com/Hosein-NZF/modern-admin-panel)
 
-### Project 2: [Project Name]
-- Description: Brief description of the project, its purpose, and technologies used.
-- Demo: Link to a live demo (if available).
-- Repository: Link to the GitHub repository.
+### Project 2: Game Website
+- **Description:** An engaging game website designed to deliver an immersive user experience with interactive elements.
+- **Demo:** [Live Demo](https://hoseinnz.ir/game-website/)
+- **Repository:** [GitHub Repository](https://github.com/Hosein-NZF/game-website)
 
 ...
 
