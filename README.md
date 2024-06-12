@@ -15,7 +15,6 @@ A few projects to familiarize yourself with my coding style.
 - **Demo:** [Live Demo](https://hoseinnz.ir/game-website/)
 - **Repository:** [GitHub Repository](https://github.com/Hosein-NZF/game-website)
 
-...
 
 ## 💻 Skills
 - Proficient in Flutter and Dart language.
